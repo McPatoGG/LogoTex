@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.container{
+    width: 100%;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+    
+  }
+
+.row{
+    display: flex;
+}
+
+.row .col{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+}
+.contact, .contact-tel{
+    background-color: rgb(8, 88, 175);
+    text-align: center;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    color: azure;
+    position: relative;
+    bottom: 10px;
+
+    }
+    .contact-tel{
+    padding-bottom: 30px;
+    }
+
+
+#fot{
+    width: 100%;
+}
+.op
+{
+color: rgb(8, 88, 175);
+}
+.map{
+    width: 80%;
+    height: 700px;
+}
+.txt{
+    font-family:   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#titleo{
+    color:rgb(255, 136, 38);
+    
+    
+}
+
+li{
+    color: rgb(8, 88, 175);
+}
+.txt1{
+    font-family:   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size:xx-large;
+}
+.mauri{
+    background-color: rgb(8, 88, 175);
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 10px;
+    color: rgb(8, 88, 175);
+    font-size: 3px;
+    text-align: right;
+}
+#maurimagen{
+    width: 500px;
+}
